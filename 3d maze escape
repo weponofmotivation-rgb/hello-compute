@@ -1,0 +1,14 @@
+Create a complete 3D Maze Escape game using HTML, CSS, and JavaScript with Three.js. The requirements are:
+
+1. Use Three.js to create a first-person maze environment with walls, floor, and ceiling.
+2. Player should move using W, A, S, D keys (forward, left, back, right).
+3. Add basic collision detection so the player cannot walk through walls.
+4. Place a green cube as the exit point.
+5. When the player reaches the exit, display a message “You Escaped the Maze!” on the screen.
+6. Add ambient and point lighting for realistic effects.
+7. The maze should be randomly generated or at least look complex.
+8. Include detailed comments explaining each part of the code.
+9. Make sure it runs correctly in Replit’s HTML, CSS, JS project setup.
+10. Use minimal CSS and responsive full-screen canvas.
+
+Title it “3D Maze Escape by Aditya”.
